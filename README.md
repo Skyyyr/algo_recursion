@@ -1,5 +1,6 @@
 # Recursion Challenge
 
+
 A Recursive function is a function that calls itself.  People use it to take a big problem and continuously break it down into smaller problems (Divde and Conquer). This process of feeding into itself continues until there is the desired answer (_sometimes called the base case_) and the whole chain unwinds.
 
 From the [Wikipedia entry on Divide and Conquer Algorithms](http://en.wikipedia.org/wiki/Divide_and_conquer_algorithm):
